@@ -1,6 +1,4 @@
-Here's an improved version of your **GitHub description** with a refined project name:  
 
----
 
 # 🎓 Student Grade Prediction using Machine Learning  
 
@@ -64,6 +62,4 @@ This project implements a **machine learning-based student performance predictio
 📌 **Contributions & Issues**  
 Feel free to contribute, report bugs, or suggest improvements! 🚀  
 
----
 
-Would you like any additional modifications or features? 😊
